@@ -36,14 +36,14 @@ NOOVADO JSC (株式会社Noovado) is a software development company in Vietnam. 
 
 ## NOOVADO HOLDINGS グループ · Group companies
 
-NOOVADO HOLDINGS は、日本とベトナムを拠点とするグループです。各社がそれぞれの専門分野を担っています。
+NOOVADO HOLDINGS は、日本とベトナムを拠点とするグループです。各社がそれぞれの専門分野を担っています。<br>
 NOOVADO HOLDINGS is a group based in Japan and Vietnam. Each company covers its own field.
 
 <img src="logos/noovado.svg" alt="NOOVADO" width="120">
 
 ### NOOVADO JSC · 株式会社Noovado — ベトナム · Vietnam
-Web・アプリ・AI・ブロックチェーン分野における開発をワンストップで提供（ITエンジニア40名）
-One-stop development of web, mobile apps, AI and blockchain (40 IT engineers)
+Web・アプリ・AI・ブロックチェーン分野における開発をワンストップで提供（ITエンジニア40名）<br>
+One-stop development of web, mobile apps, AI and blockchain (40 IT engineers)<br>
 [www.noovado.com](https://www.noovado.com)
 
 <img src="logos/noovacons.svg" alt="NOOVACONS" width="120">
@@ -51,7 +51,7 @@ One-stop development of web, mobile apps, AI and blockchain (40 IT engineers)
 ### NOOVACONS JSC · 株式会社Noovacons — ベトナム · Vietnam
 *人と技術の力で、建設業界に新たな未来を。 · People and technology building a new future for the construction industry*
 
-建築・土木・設備分野の設計から施工までを支えるオフショアパートナー（エンジニア30名）
+建築・土木・設備分野の設計から施工までを支えるオフショアパートナー（エンジニア30名）<br>
 Offshore partner for architecture, civil engineering and building services, from design to construction (30 engineers)
 
 - **CAD図面作成** · CAD drafting — 手書き図面のCAD化、図面修正、施工図展開 · digitising hand drawings, revisions, shop drawings
@@ -66,7 +66,7 @@ Offshore partner for architecture, civil engineering and building services, from
 ### NOOVAMECH JSC · ノーバメック — ベトナム · Vietnam
 *人と技術の力で、ものづくりに新たな未来を · People and technology building a new future for manufacturing*
 
-機械・治具・電気制御設計・製作をワンストップで提供（機械エンジニア25名）
+機械・治具・電気制御設計・製作をワンストップで提供（機械エンジニア25名）<br>
 One-stop design and manufacturing of machines, jigs and electrical control (25 mechanical engineers)
 
 - **機械設計** · Mechanical design — 2D・3D CADによるエンジン関連製品、加工・組付・溶接設備の設計 · engine-related products and machining, assembly and welding equipment in 2D/3D CAD
@@ -81,7 +81,7 @@ One-stop design and manufacturing of machines, jigs and electrical control (25 m
 ### NOOVASTEEL JSC — ベトナム · Vietnam
 *人と技術の力で、鉄骨づくりに新たな価値を · People and technology creating new value in steel construction*
 
-鉄骨構造の図面作成から製作管理まで、日本の鉄骨工事を支えるパートナー
+鉄骨構造の図面作成から製作管理まで、日本の鉄骨工事を支えるパートナー<br>
 Partner for Japanese steel construction, from steel structure drawings to fabrication management
 
 - **鉄骨図面作成** · Steel structure drawings — BIM・CADを用いて設計段階から製作・施工まで · BIM and CAD drawings from design through fabrication and erection
@@ -92,7 +92,7 @@ Partner for Japanese steel construction, from steel structure drawings to fabric
 [www.noovasteel.com](https://www.noovasteel.com)
 
 ### NOOVADO JAPAN · 合同会社Noovado Japan — 日本 · Japan
-日本のお客様との契約および窓口機能を担っています
+日本のお客様との契約および窓口機能を担っています<br>
 Contracts and the point of contact for customers in Japan
 
 [www.noovado.co.jp](https://www.noovado.co.jp)
