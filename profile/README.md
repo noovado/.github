@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="logos/noovado.svg" alt="NOOVADO" width="240">
+
 # NOOVADO JSC · 株式会社Noovado
 
 **デジタル変革を通じて社会の進歩を創造する**
@@ -37,10 +39,14 @@ NOOVADO JSC (株式会社Noovado) is a software development company in Vietnam. 
 NOOVADO HOLDINGS は、日本とベトナムを拠点とするグループです。各社がそれぞれの専門分野を担っています。
 NOOVADO HOLDINGS is a group based in Japan and Vietnam. Each company covers its own field.
 
+<img src="logos/noovado.svg" alt="NOOVADO" width="120">
+
 ### NOOVADO JSC · 株式会社Noovado — ベトナム · Vietnam
 Web・アプリ・AI・ブロックチェーン分野における開発をワンストップで提供（ITエンジニア40名）
 One-stop development of web, mobile apps, AI and blockchain (40 IT engineers)
 [www.noovado.com](https://www.noovado.com)
+
+<img src="logos/noovacons.svg" alt="NOOVACONS" width="120">
 
 ### NOOVACONS JSC · 株式会社Noovacons — ベトナム · Vietnam
 *人と技術の力で、建設業界に新たな未来を。 · People and technology building a new future for the construction industry*
@@ -55,6 +61,8 @@ Offshore partner for architecture, civil engineering and building services, from
 
 [www.noovacons.com](https://www.noovacons.com)
 
+<img src="logos/noovamech.svg" alt="NOOVAMECH" width="120">
+
 ### NOOVAMECH JSC · ノーバメック — ベトナム · Vietnam
 *人と技術の力で、ものづくりに新たな未来を · People and technology building a new future for manufacturing*
 
@@ -67,6 +75,21 @@ One-stop design and manufacturing of machines, jigs and electrical control (25 m
 - **ソフトウェア開発** · Software development — 機械系CADのカスタマイズ、業務効率化システム · mechanical CAD customisation and efficiency systems
 
 [www.noovamech.com](https://www.noovamech.com)
+
+<img src="logos/noovasteel.svg" alt="NOOVASTEEL" width="120">
+
+### NOOVASTEEL JSC — ベトナム · Vietnam
+*人と技術の力で、鉄骨づくりに新たな価値を · People and technology creating new value in steel construction*
+
+鉄骨構造の図面作成から製作管理まで、日本の鉄骨工事を支えるパートナー
+Partner for Japanese steel construction, from steel structure drawings to fabrication management
+
+- **鉄骨図面作成** · Steel structure drawings — BIM・CADを用いて設計段階から製作・施工まで · BIM and CAD drawings from design through fabrication and erection
+- **鉄骨製作・管理** · Fabrication management — ベトナムの協力工場と連携した製作管理、品質管理、検査、物流 · manufacturing oversight, quality control, inspection and logistics with partner factories in Vietnam
+- **システム開発** · System development — BIM・AI・デジタル技術を活用した自動化と効率化 · automation and efficiency with BIM, AI and digital tools
+- **人材育成** · Engineer training — 日本の鉄骨技術・日本語・品質基準を学ぶベトナム人技術者の育成 · training Vietnamese engineers in Japanese steel fabrication, language and quality standards
+
+[www.noovasteel.com](https://www.noovasteel.com)
 
 ### NOOVADO JAPAN · 合同会社Noovado Japan — 日本 · Japan
 日本のお客様との契約および窓口機能を担っています
