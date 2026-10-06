@@ -1,14 +1,18 @@
 // Builds profile/README.md: a Japanese part, then an English part, each opening with its drawing-sheet banner.
 // Run: node tools/build-readme.mjs
 // Company names are always written in capitals (株式会社NOOVADO, NOOVADO JSC). Official taglines are quoted verbatim.
-import { writeFileSync } from "node:fs";
+import { readFileSync, writeFileSync } from "node:fs";
+import { createHash } from "node:crypto";
 
 const RAW = "https://github.com/noovado/.github/raw/main/profile";
-const logo = (f, alt) => `<img src="${RAW}/logos/${f}.svg" alt="${alt}" width="128">`;
+// ?v=<content hash>: a changed image gets a new URL, so browsers and GitHub never show a cached old version.
+const v = (path) => createHash("sha256").update(readFileSync(new URL(`../profile/${path}`, import.meta.url))).digest("hex").slice(0, 10);
+const url = (path) => `${RAW}/${path}?v=${v(path)}`;
+const logo = (f, alt) => `<img src="${url(`logos/${f}.svg`)}" alt="${alt}" width="128">`;
 
 const hero = (lang, alt) => `<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="${RAW}/assets/hero-${lang}-dark.svg">
-  <img src="${RAW}/assets/hero-${lang}-light.svg" alt="${alt}" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="${url(`assets/hero-${lang}-dark.svg`)}">
+  <img src="${url(`assets/hero-${lang}-light.svg`)}" alt="${alt}" width="100%">
 </picture>`;
 
 // 3 x 2 grid of services: title on top, one line of description below.

@@ -1,8 +1,8 @@
 <a id="日本語"></a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/noovado/.github/raw/main/profile/assets/hero-ja-dark.svg">
-  <img src="https://github.com/noovado/.github/raw/main/profile/assets/hero-ja-light.svg" alt="株式会社NOOVADO — デジタル変革を通じて社会の進歩を創造する" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/noovado/.github/raw/main/profile/assets/hero-ja-dark.svg?v=cf7c91282a">
+  <img src="https://github.com/noovado/.github/raw/main/profile/assets/hero-ja-light.svg?v=5108d9d93e" alt="株式会社NOOVADO — デジタル変革を通じて社会の進歩を創造する" width="100%">
 </picture>
 
 <p align="right"><b>日本語</b>　|　<a href="#english">English</a></p>
@@ -26,7 +26,7 @@ NOOVADO HOLDINGS は、ベトナムと日本を拠点に、IT・建設・製造�
 
 <table>
 <tr>
-<td width="150" align="center" valign="middle"><img src="https://github.com/noovado/.github/raw/main/profile/logos/noovado.svg" alt="NOOVADO" width="128"></td>
+<td width="150" align="center" valign="middle"><img src="https://github.com/noovado/.github/raw/main/profile/logos/noovado.svg?v=b859b123b4" alt="NOOVADO" width="128"></td>
 <td valign="top">
 <b>株式会社NOOVADO（ベトナム）</b><br>
 Web・モバイル・AI・ブロックチェーン分野の受託開発。ITエンジニア40名。<br>
@@ -34,7 +34,7 @@ Web・モバイル・AI・ブロックチェーン分野の受託開発。ITエ�
 </td>
 </tr>
 <tr>
-<td width="150" align="center" valign="middle"><img src="https://github.com/noovado/.github/raw/main/profile/logos/noovacons.svg" alt="NOOVACONS" width="128"></td>
+<td width="150" align="center" valign="middle"><img src="https://github.com/noovado/.github/raw/main/profile/logos/noovacons.svg?v=60ed99c635" alt="NOOVACONS" width="128"></td>
 <td valign="top">
 <b>株式会社NOOVACONS（ベトナム）</b><br><i>人と技術の力で、建設業界に新たな未来を。</i><br>
 建築・土木・設備分野の設計から施工までを支えるオフショアパートナー。エンジニア30名。<br><sub>CAD図面作成　｜　BIM/CIM/MEP　｜　CGパース・VR　｜　BIM/CADソフト開発</sub><br>
@@ -42,7 +42,7 @@ Web・モバイル・AI・ブロックチェーン分野の受託開発。ITエ�
 </td>
 </tr>
 <tr>
-<td width="150" align="center" valign="middle"><img src="https://github.com/noovado/.github/raw/main/profile/logos/noovamech.svg" alt="NOOVAMECH" width="128"></td>
+<td width="150" align="center" valign="middle"><img src="https://github.com/noovado/.github/raw/main/profile/logos/noovamech.svg?v=d4dd3afba3" alt="NOOVAMECH" width="128"></td>
 <td valign="top">
 <b>株式会社NOOVAMECH（ベトナム）</b><br><i>人と技術の力で、ものづくりに新たな未来を</i><br>
 機械設計・電気制御設計から製作までをワンストップで提供。機械エンジニア25名。<br><sub>機械設計　｜　電気制御設計　｜　製作・組立　｜　CADカスタマイズ</sub><br>
@@ -50,7 +50,7 @@ Web・モバイル・AI・ブロックチェーン分野の受託開発。ITエ�
 </td>
 </tr>
 <tr>
-<td width="150" align="center" valign="middle"><img src="https://github.com/noovado/.github/raw/main/profile/logos/noovasteel.svg" alt="NOOVASTEEL" width="128"></td>
+<td width="150" align="center" valign="middle"><img src="https://github.com/noovado/.github/raw/main/profile/logos/noovasteel.svg?v=ce56e24407" alt="NOOVASTEEL" width="128"></td>
 <td valign="top">
 <b>株式会社NOOVASTEEL（ベトナム）</b><br><i>人と技術の力で、鉄骨づくりに新たな価値を</i><br>
 鉄骨図面の作成から製作管理まで、日本の鉄骨工事を支えるパートナー。<br><sub>鉄骨図面作成　｜　製作管理・品質管理　｜　BIM・AIシステム開発　｜　技術者育成</sub><br>
@@ -58,7 +58,7 @@ Web・モバイル・AI・ブロックチェーン分野の受託開発。ITエ�
 </td>
 </tr>
 <tr>
-<td width="150" align="center" valign="middle"><img src="https://github.com/noovado/.github/raw/main/profile/logos/noovado.svg" alt="NOOVADO JAPAN" width="128"></td>
+<td width="150" align="center" valign="middle"><img src="https://github.com/noovado/.github/raw/main/profile/logos/noovado.svg?v=b859b123b4" alt="NOOVADO JAPAN" width="128"></td>
 <td valign="top">
 <b>合同会社NOOVADO JAPAN（日本）</b><br>
 グループの日本法人として、日本のお客様とのご契約およびお問い合わせ窓口を担います。<br>
@@ -76,8 +76,8 @@ Web・モバイル・AI・ブロックチェーン分野の受託開発。ITエ�
 <a id="english"></a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/noovado/.github/raw/main/profile/assets/hero-en-dark.svg">
-  <img src="https://github.com/noovado/.github/raw/main/profile/assets/hero-en-light.svg" alt="NOOVADO JSC — Creating societal progress through digital transformation" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/noovado/.github/raw/main/profile/assets/hero-en-dark.svg?v=f70db0023a">
+  <img src="https://github.com/noovado/.github/raw/main/profile/assets/hero-en-light.svg?v=226f54c875" alt="NOOVADO JSC — Creating societal progress through digital transformation" width="100%">
 </picture>
 
 <p align="right"><a href="#日本語">日本語</a>　|　<b>English</b></p>
@@ -101,7 +101,7 @@ NOOVADO HOLDINGS operates in Vietnam and Japan across IT, construction, and manu
 
 <table>
 <tr>
-<td width="150" align="center" valign="middle"><img src="https://github.com/noovado/.github/raw/main/profile/logos/noovado.svg" alt="NOOVADO" width="128"></td>
+<td width="150" align="center" valign="middle"><img src="https://github.com/noovado/.github/raw/main/profile/logos/noovado.svg?v=b859b123b4" alt="NOOVADO" width="128"></td>
 <td valign="top">
 <b>NOOVADO JSC (Vietnam)</b><br>
 Contract software development in web, mobile, AI, and blockchain. 40 IT engineers.<br>
@@ -109,7 +109,7 @@ Contract software development in web, mobile, AI, and blockchain. 40 IT engineer
 </td>
 </tr>
 <tr>
-<td width="150" align="center" valign="middle"><img src="https://github.com/noovado/.github/raw/main/profile/logos/noovacons.svg" alt="NOOVACONS" width="128"></td>
+<td width="150" align="center" valign="middle"><img src="https://github.com/noovado/.github/raw/main/profile/logos/noovacons.svg?v=60ed99c635" alt="NOOVACONS" width="128"></td>
 <td valign="top">
 <b>NOOVACONS JSC (Vietnam)</b><br><i>People and technology, shaping the future of construction.</i><br>
 Offshore engineering partner for architecture, civil, and MEP work, from design to construction. 30 engineers.<br><sub>CAD drafting　｜　BIM/CIM/MEP　｜　Renderings & VR　｜　BIM/CAD software</sub><br>
@@ -117,7 +117,7 @@ Offshore engineering partner for architecture, civil, and MEP work, from design 
 </td>
 </tr>
 <tr>
-<td width="150" align="center" valign="middle"><img src="https://github.com/noovado/.github/raw/main/profile/logos/noovamech.svg" alt="NOOVAMECH" width="128"></td>
+<td width="150" align="center" valign="middle"><img src="https://github.com/noovado/.github/raw/main/profile/logos/noovamech.svg?v=d4dd3afba3" alt="NOOVAMECH" width="128"></td>
 <td valign="top">
 <b>NOOVAMECH JSC (Vietnam)</b><br><i>People and technology, shaping the future of manufacturing.</i><br>
 Mechanical and electrical control design through to manufacturing, under one roof. 25 mechanical engineers.<br><sub>Mechanical design　｜　Electrical & control design　｜　Manufacturing & assembly　｜　CAD customization</sub><br>
@@ -125,7 +125,7 @@ Mechanical and electrical control design through to manufacturing, under one roo
 </td>
 </tr>
 <tr>
-<td width="150" align="center" valign="middle"><img src="https://github.com/noovado/.github/raw/main/profile/logos/noovasteel.svg" alt="NOOVASTEEL" width="128"></td>
+<td width="150" align="center" valign="middle"><img src="https://github.com/noovado/.github/raw/main/profile/logos/noovasteel.svg?v=ce56e24407" alt="NOOVASTEEL" width="128"></td>
 <td valign="top">
 <b>NOOVASTEEL JSC (Vietnam)</b><br><i>Creating New Value in Steel Construction Through People and Technology</i><br>
 Steel structure drawings and fabrication management for construction projects in Japan.<br><sub>Steel Drawings　｜　Steel Fabrication & Management　｜　System Development　｜　Engineer Training</sub><br>
@@ -133,7 +133,7 @@ Steel structure drawings and fabrication management for construction projects in
 </td>
 </tr>
 <tr>
-<td width="150" align="center" valign="middle"><img src="https://github.com/noovado/.github/raw/main/profile/logos/noovado.svg" alt="NOOVADO JAPAN" width="128"></td>
+<td width="150" align="center" valign="middle"><img src="https://github.com/noovado/.github/raw/main/profile/logos/noovado.svg?v=b859b123b4" alt="NOOVADO JAPAN" width="128"></td>
 <td valign="top">
 <b>NOOVADO JAPAN LLC (Japan)</b><br>
 The group's Japanese entity: contracts and the first point of contact for clients in Japan.<br>
