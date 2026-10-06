@@ -1,6 +1,6 @@
 <div align="center">
 
-# NOOVADO JSC · 株式会社Noovado
+# NOOVADO JSC
 
 **デジタル変革を通じて社会の進歩を創造する**
 *Creating societal progress through digital transformation*
@@ -11,7 +11,7 @@
 
 ---
 
-We are a software development company based in Tokyo, working with an engineering team in Vietnam. We design, build and run software for businesses in Japan and abroad, from the first plan to production.
+NOOVADO JSC is a software development company in Vietnam. Together with **Noovado Japan (株式会社Noovado)**, our entity in Tokyo, we design, build and run software for businesses in Japan, Vietnam and abroad, from the first plan to production.
 
 ## What we do
 
@@ -31,6 +31,8 @@ We are a software development company based in Tokyo, working with an engineerin
 
 ## Contact
 
-**株式会社Noovado (NOOVADO JSC)**
-〒134-0088 東京都江戸川区西葛西6-13-1 たかみビル5F-15
+**NOOVADO JSC** — Vietnam
+
+**Noovado Japan (株式会社Noovado)** — 〒134-0088 東京都江戸川区西葛西6-13-1 たかみビル5F-15
+
 [www.noovado.com](https://www.noovado.com) · [info@noovado.com](mailto:info@noovado.com)
