@@ -5,7 +5,7 @@
 **デジタル変革を通じて社会の進歩を創造する**
 *Creating societal progress through digital transformation*
 
-[Website](https://www.noovado.com) · [info@noovado.com](mailto:info@noovado.com)
+[Website](https://www.noovado.com) · [contact@noovado.com](mailto:contact@noovado.com)
 
 </div>
 
@@ -35,4 +35,4 @@ NOOVADO JSC (株式会社Noovado) is a software development company in Vietnam. 
 
 **Noovado Japan (合同会社Noovado Japan)** — Japan · [www.noovado.co.jp](https://www.noovado.co.jp)
 
-[info@noovado.com](mailto:info@noovado.com)
+[contact@noovado.com](mailto:contact@noovado.com)
