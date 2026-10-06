@@ -15,20 +15,20 @@ const theme = {
 
 const copy = {
   ja: {
-    name: "株式会社Noovado",
+    name: "株式会社NOOVADO",
     tagline: "デジタル変革を通じて社会の進歩を創造する",
-    dim: "Web・アプリ・AI・ブロックチェーン開発",
+    dim: "Web・モバイル・AI・ブロックチェーン開発",
     block: "NOOVADO HOLDINGS グループ",
-    rows: [["株式会社Noovado", "ソフトウェア開発"], ["株式会社Noovacons", "建築・土木・設備"], ["株式会社Noovamech", "機械・電気制御"], ["株式会社Noovasteel", "鉄骨構造"], ["合同会社Noovado Japan", "日本窓口"]],
+    rows: [["株式会社NOOVADO", "ソフトウェア開発"], ["株式会社NOOVACONS", "建設・BIM"], ["株式会社NOOVAMECH", "機械・電気設計"], ["株式会社NOOVASTEEL", "鉄骨"], ["合同会社NOOVADO JAPAN", "日本法人"]],
     foot: "ベトナム・日本",
   },
   en: {
     name: "NOOVADO JSC",
     tagline: "Creating societal progress through digital transformation",
-    dim: "Web, mobile, AI and blockchain development",
-    block: "NOOVADO HOLDINGS group",
-    rows: [["NOOVADO JSC", "Software"], ["NOOVACONS JSC", "Construction & BIM"], ["NOOVAMECH JSC", "Machinery"], ["NOOVASTEEL JSC", "Steel structures"], ["NOOVADO JAPAN LLC", "Japan office"]],
-    foot: "Vietnam & Japan",
+    dim: "Web, mobile, AI, and blockchain development",
+    block: "NOOVADO HOLDINGS Group",
+    rows: [["NOOVADO JSC", "Software"], ["NOOVACONS JSC", "Construction & BIM"], ["NOOVAMECH JSC", "Machinery & controls"], ["NOOVASTEEL JSC", "Steel structures"], ["NOOVADO JAPAN LLC", "Japanese entity"]],
+    foot: "Vietnam · Japan",
   },
 };
 
